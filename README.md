@@ -1,4 +1,4 @@
-# Cardiovascular disease (PA001)
+# Cardiovascular disease detection
 
 Dataset from kaggle:
 
